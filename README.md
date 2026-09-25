@@ -1,7 +1,7 @@
 <h1> This is my Custom Figura BlockBench Avatar made by me</h1>
 
 This is using the Mod called Figura that allows a custom player model with maximum freedom.
-The character model are based on my Minecraft Avatar.
+The character model are based on my Minecraft Avatar. The script is entirely made with lua.
 This Model Contains:
 - Special Animation
 - Animation Wheel
